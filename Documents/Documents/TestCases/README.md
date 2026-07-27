@@ -1,11 +1,11 @@
-# Test Cases
+## QA Documents
 
-This folder contains QA test cases for the Honey-stock project.
+### Test Cases
+- Product Management Test Cases (15 Cases)
 
-## Current Status
-- Product Management Test Cases (Completed)
-
-## Planned
+### Planned
 - Warehouse Management
 - Inventory Management
 - Sales Management
+- Bug Reports
+- Improvement Proposals
